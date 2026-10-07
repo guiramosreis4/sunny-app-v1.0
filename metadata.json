@@ -1,0 +1,6 @@
+{
+  "name": "SUNNY - Assistência Técnica & Área do Cliente",
+  "description": "Aplicativo do ecossistema SUNNY para acesso do cliente, recuperação de senha, autenticação em dois fatores e rastreamento de aparelhos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
